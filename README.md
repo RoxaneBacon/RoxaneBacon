@@ -2,13 +2,11 @@
 
 > Creative Full-Stack Developer | From design to deployment 
 
----
 
 ## What I Do
 
 I'm a developer who bridges the gap between **design and code**. From initial sketches in Figma to deployed cloud architectures, I craft complete digital experiences.
 
----
 
 ## About Me
 
@@ -17,7 +15,6 @@ I'm a developer who bridges the gap between **design and code**. From initial sk
 -  **Learning:** Advanced cloud architecture, Kubernetes, GreenIT, Sustainable Software Engineering, etc.
 -  **Interested in:** Design, UI/UX, user-centered approach, etc.
 
----
 
 ##  My Tech Stack
 
@@ -46,7 +43,7 @@ I'm a developer who bridges the gap between **design and code**. From initial sk
 - **Backend** - Spring, NestJS, Node.js, REST APIs
 - **Architecture** - Microservices, Serverless
 
----
+
 
 ## Featured Projects
 
@@ -62,7 +59,6 @@ I'm a developer who bridges the gap between **design and code**. From initial sk
 -  **Role:** Frontend architecture, UI/UX
 -  **[Live Demo](https://lucidarena.tech/)** | **[Repository](https://github.com/Firelods/LucidArena)**
 
----
 
 ## Let's Connect!
 
